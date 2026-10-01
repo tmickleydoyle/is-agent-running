@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/fb9a328a-34c1-4214-8942-ed92508e34c2
+
 # Agent Snake 🐍
 
 Little colored snakes crawl around the edge of your screen while Claude Code is working, one snake per running session. Switch apps, spaces, or full-screen windows and you can still see at a glance whether your agents are busy.
